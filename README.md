@@ -12,7 +12,7 @@ databases (SQL and NoSQL alike), and more.
 
 The easiest configuration that accepts system logs on /dev/log (from
 applications or forwarded by systemd) and writes everything to a single
-file is as follows:
+file is as follows://comment added
 
 ```
 @version: 3.17
